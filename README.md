@@ -36,7 +36,7 @@ The following links provide individual service-level documentation with relevant
 - [ELB](elb/README.md)
 - [IAM](iam/README.md)
 - [Lambda](lambda/README.md)
-- [Open Source on AWS](opensource/README.md)
+- [Open Source](opensource/README.md)
 - [RDS](rds/README.md)
 - [Route 53](route53/README.md)
 - [S3](s3/README.md)
