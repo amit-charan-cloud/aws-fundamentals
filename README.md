@@ -43,4 +43,4 @@ The following links provide individual service-level documentation with relevant
 - [Security Group](security-group/README.md)
 - [SES](ses/README.md)
 - [SNS](sns/README.md)
-- [VPC](vpc/README.md)# azure-identity-management
+- [VPC](vpc/README.md)
